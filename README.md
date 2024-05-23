@@ -1,4 +1,4 @@
-# Responsive GSAP Slider
+# Responsive-Gsap-Slider
 <a href="https://github.com/DevisWisley/Responsive-Gsap-Slider/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/DevisWisley/Responsive-Gsap-Slider?style=flat-square" alt="github-profile-readme-generator license" />
 </a>
