@@ -1,4 +1,4 @@
-# Responsive-Gsap-Slider
+x# Responsive-Gsap-Slider
 <a href="https://github.com/DevisWisley/Responsive-Gsap-Slider/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/DevisWisley/Responsive-Gsap-Slider?style=flat-square" alt="github-profile-readme-generator license" />
 </a>
@@ -16,7 +16,7 @@ Here we have project screenshot :
 ## LICENSE
 > MIT License
 >
-> Copyright (c) 2022 tandpfun 
+> Copyright (c) 2024 Devis Wisley 
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
