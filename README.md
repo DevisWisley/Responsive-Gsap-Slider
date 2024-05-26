@@ -14,8 +14,6 @@ Here we have project screenshot :
 <hr>
 
 ## LICENSE
-> MIT License
->
 > Copyright (c) 2024 Devis Wisley 
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
